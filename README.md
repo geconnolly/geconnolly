@@ -1,4 +1,6 @@
-### Hi there 👋
+### Grace Connolly (she/her)
+
+Undergraduate Physics Student at Arizona State University
 
 <!--
 **geconnolly/geconnolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
