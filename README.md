@@ -1,6 +1,7 @@
 ### Grace Connolly (she/her)
 
-Undergraduate Physics Student at Arizona State University
+Astronomy and Astrophysics PhD Student at the University of Toronto
+Physics BS from Arizona State University
 
 <!--
 **geconnolly/geconnolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
