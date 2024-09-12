@@ -1,6 +1,7 @@
 ### Grace Connolly (she/her)
 
 Astronomy and Astrophysics PhD Student at the University of Toronto
+
 Physics BS from Arizona State University
 
 <!--
